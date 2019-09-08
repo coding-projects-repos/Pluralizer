@@ -6,7 +6,7 @@ Two horses. Five monkeys. Twenty flies. One cat. Nine lives. Despite the English
 
 ## Prerequisites
 
-List any topics that would be required to complete the project (exclude extensions), for example:
+You should be familiar with the following topics:
 
 - String manipulation
 - Getting User Input
