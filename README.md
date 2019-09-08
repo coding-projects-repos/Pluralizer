@@ -1,5 +1,11 @@
 # Pluralizer
 
+1. [Description](#description)
+2. [Prerequisites](#prerequisites)
+3. [Prompt](#prompt)
+4. [Testing](#testing)
+5. [Extensions](#extensions)
+
 ## Description
 
 Two horses. Five monkeys. Twenty flies. One cat. Nine lives. Despite the English language being one of the most commonly used languages around the world, it is also quite complicated to learn if you are not a native speaker. Taking a noun and converting it to its plural form has a dozen rules and even more special cases. In this lab, you will write a program that takes words and makes them plural.
